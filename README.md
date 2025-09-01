@@ -1,2 +1,3 @@
 #Example Repository
-New repo
+New repo added.
+Hello!
